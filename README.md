@@ -1,4 +1,4 @@
-# bot-n-de-ayuda  Open SOS Button – Ανοιχτό Κουμπί Ανάγκης για Ηλικιωμένους
+# boton-de-ayuda  Open SOS Button – Ανοιχτό Κουμπί Ανάγκης για Ηλικιωμένους
 
 ## Περιγραφή
 Το Open SOS Button είναι ένα ανοικτό, χαμηλού κόστους σύστημα κουμπιού ανάγκης (SOS),
@@ -45,7 +45,9 @@
 - Buzzer
 - Αντιστάσεις & καλώδια
 - Mini breadboard ή PCB
-- Τροφοδοσία USB 5V
+- Μπαταρία 9V
+- 5V Step Down LM2596 Dual USB
+- Καλώδιο USB A → USB micro-B
 - Πλαστικό κουτί προστασίας
 
 ---
